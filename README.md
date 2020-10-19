@@ -30,4 +30,7 @@ wordcloud of president in Korea
    
 ## :point_up: Wordcloud
 &nbsp;&nbsp; 사진의 테두리에 따라서 Wordcloud를 그리고 싶다면, **원하는 테두리를 제외한 부분은 모두 흰색**이어야한다. 샘플 사진은 사진원본 폴더를 참고하면 된다. <br/>
-&nbsp;&nbsp; 사진이 준비되면, Python의 ImageColorGenerator를 사용하여 사진의 색상을 추출해 내고, 이를 Wordcloud 글자색에 지정하면 된다.
+&nbsp;&nbsp; 사진이 준비되면, Python의 ImageColorGenerator를 사용하여 사진의 색상을 추출해 내고, 이를 Wordcloud 글자색에 지정하면 된다.<br/>
+&nbsp;&nbsp; 아래 사진은 노무현 대통령 취임사를 분석한 Wordcloud 예시이다.
+
+<img src="https://user-images.githubusercontent.com/59464528/96473904-28ca1680-126d-11eb-8383-ac9a518d5654.png" width="300" height="350">
