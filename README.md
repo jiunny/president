@@ -20,9 +20,20 @@ wordcloud of president in Korea
 
 ```
 
-+-- README.md : 프로젝트 설명 파일
-   +-- requirements.txt : 설치 모듈 파일
-   +-- asset : 보고 결과물 (보고서 혹은 메일 보고)
+├─ /sample/
+  ├─ README.md
+  ├─ requirements.txt 
+  ├─ asset
+  ├─ data
+  │     sample.csv
+  ├─ query
+  │     sample.sql
+  │      ...
+  └─ proc                      - raw data를 전처리한 data
+  │      ...
+  └─ notebook                   
+  │     sample.ipynb
+  └─  ...
 
 
 ```
