@@ -5,7 +5,7 @@ wordcloud of president in Korea
 ```
 
 ├─ Master
-  │  README.md
+  ├─ README.md
   ├─ wordcloud                  - Worldcloud 이미지
   │      김대중_wordcloud.png
   │      ...
@@ -15,6 +15,15 @@ wordcloud of president in Korea
   └─ 연설문                      - 역대 대통령 취임사 데이터
   │      김대중.txt
   └─  wordcloud.ipynb
+
+```
+
+```
+
++-- README.md : 프로젝트 설명 파일
+   +-- requirements.txt : 설치 모듈 파일
+   +-- asset : 보고 결과물 (보고서 혹은 메일 보고)
+
 
 ```
 
